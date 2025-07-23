@@ -124,14 +124,3 @@ Para começar a escrever testes:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença ISC.
-
-## 📞 Suporte
-
-Se você encontrar algum problema ou tiver dúvidas, abra uma issue no repositório.
-
----
-
-**Desenvolvido com ❤️ para automação de testes**
